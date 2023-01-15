@@ -6,3 +6,7 @@ Release/
 .mxproject
 .project
 STM32F103C8TX_FLASH.ld
+
+# Auto-generated files (drivers etc.) by STM32CubeIDE
+Drivers/CMSIS/
+Drivers/STM32F1xx_HAL_Driver
